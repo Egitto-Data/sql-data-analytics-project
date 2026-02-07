@@ -47,26 +47,6 @@ In modern data stacks, the ability to write clean, performant, and reusable SQL 
 
 ---
 
-## 🛠️ Tech Stack & Compatibility
-These scripts are optimized for **ANSI SQL**, making them highly portable across modern data warehouses:
-* ❄️ **Snowflake**
-* ☁️ **Google BigQuery**
-* 🐘 **PostgreSQL**
-* 🔴 **Amazon Redshift**
-* 📊 **Azure Synapse**
-
----
-
-## 🚀 How to Use
-
-1. **Browse:** Select a module from the folder structure.
-2. **Review:** Open the `.sql` file to see the query structure and logic comments.
-3. **Customize:** * Look for the `-- CONFIG --` comments at the top of scripts.
-   * Replace generic table names (`stg_orders`) with your actual table names.
-4. **Execute:** Run the query in your favorite IDE (DBeaver, DataGrip, or Cloud Console).
-
----
-
 ## 💡 Pro-Tips Included
 Every script in this repository follows a strict style guide:
 * ✅ **CTEs over Subqueries:** For better readability and debugging.
@@ -88,7 +68,3 @@ Want to add a script? We love that!
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ---
-**📬 Connect with Me**
-[Your Portfolio/Website] | [Your LinkedIn] | [Your Twitter/X]
-
-*"In God we trust; all others must bring data." — W. Edwards Deming*
